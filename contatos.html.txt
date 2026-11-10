@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contatos - Games Central</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+        header { background-color: #2c3e50; color: white; padding: 20px; text-align: center; }
+        nav { background-color: #34495e; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        nav a:hover { color: #f1c40f; }
+        main { padding: 20px; max-width: 900px; margin: 0 auto; background: white; }
+        footer { background-color: #2c3e50; color: white; text-align: center; padding: 15px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fale Conosco</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="pc.html">Jogos de PC</a>
+        <a href="consoles.html">Consoles</a>
+        <a href="indies.html">Jogos Indie</a>
+        <a href="contatos.html">Contatos</a>
+    </nav>
+    <main>
+        <h2>Entre em Contato</h2>
+        <p>Email: contato@gamescentral.com</p>
+        <p>Redes Sociais: @gamescentral</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 Games Central - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>

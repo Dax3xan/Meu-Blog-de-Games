@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogos de PC - Games Central</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+        header { background-color: #2c3e50; color: white; padding: 20px; text-align: center; }
+        nav { background-color: #34495e; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        nav a:hover { color: #f1c40f; }
+        main { padding: 20px; max-width: 900px; margin: 0 auto; background: white; }
+        footer { background-color: #2c3e50; color: white; text-align: center; padding: 15px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Universo PC Gaming</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="pc.html">Jogos de PC</a>
+        <a href="consoles.html">Consoles</a>
+        <a href="indies.html">Jogos Indie</a>
+        <a href="contatos.html">Contatos</a>
+    </nav>
+    <main>
+        <h2>A Era de Ouro dos Computadores</h2>
+        <p>Jogar no PC garante alta taxa de quadros, gráficos ultra-realistas e uma vasta variedade de títulos acessíveis por plataformas digitais como Steam e Epic Games Store.</p>
+        <p>Além disso, o cenário competitivo de eSports encontra no PC sua principal plataforma de campeonatos mundiais.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 Games Central - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
